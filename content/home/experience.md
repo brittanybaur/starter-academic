@@ -29,7 +29,7 @@ experience:
     location: Madison
     date_start: '2017-06-01'
     date_end: ''
-    description: 
+    description: |2-
       * Leveraging one dimensional signals to predict enhancer promoter interactions
       * Interpreting non-coding variation in the context of the 3-dimensional genome
       * Analyzing Hi-C data to understand the role of 3D genome organization in the window of breast cancer susceptibility
