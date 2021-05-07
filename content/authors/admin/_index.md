@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#babaur@wisc.edu'
+  link: mailto:babaur@wisc.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BrittanyABaur
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Postdoctoral Research Associate at the University of Wisconsin - Madison in the Wisconsin Institute for Discovery. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I have served as Editor-in-Chief of *Genomics: Insights*, a collaboration between the NHGRI and Smithsonian. *Genomics: Insights* is a digital venue for trainees to submit short communication pieces on cutting edge genomics research to a general audience. I am also interested in data-driven science policy with a focus on equitable transportation. I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
+I am a Postdoctoral Research Associate at the University of Wisconsin - Madison in the Wisconsin Institute for Discovery. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I have served as Editor-in-Chief of *Genomics: Insights*, a collaboration between the NHGRI and Smithsonian. *Genomics: Insights* is a digital venue for trainees to submit short communication pieces on cutting-edge genomics research to a general audience. I am also interested in data-driven science policy with a focus on equitable transportation. I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
