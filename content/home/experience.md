@@ -22,19 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral Research Associate
+    company: University of Wisconsin - Madison
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: UW
+    location: Madison
+    date_start: '2017-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
+      * Leveraging one dimensional signals to predict enhancer promoter interactions
+      * Interpreting non-coding variation in the context of the 3-dimensional genome
+      * Analyzing Hi-C data to understand the role of 3D genome organization in the window of breast cancer susceptibility
         
   - title: Professor of Semiconductor Physics
     company: University X
