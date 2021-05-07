@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: University of Wisconsin - Madison
     company_url: ''
-    company_logo: UW.jpg
+    company_logo: UW
     location: Madison
     date_start: '2017-06-01'
     date_end: ''
