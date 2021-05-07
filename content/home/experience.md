@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: University of Wisconsin - Madison
     company_url: ''
-    company_logo: UW
+    company_logo: 
     location: Madison
     date_start: '2017-06-01'
     date_end: ''
@@ -34,14 +34,6 @@ experience:
       * Interpreting non-coding variation in the context of the 3-dimensional genome
       * Analyzing Hi-C data to understand the role of 3D genome organization in the window of breast cancer susceptibility
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
