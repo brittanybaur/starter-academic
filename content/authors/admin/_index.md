@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '/#babaur@wisc.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BrittanyABaur
@@ -51,10 +51,10 @@ social:
   link: https://scholar.google.com/citations?user=8thCjDwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/brittanybaur
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/brittany-baur-668ba5b0/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Postdoctoral Research Associate at the Wisconsin Institute for Discovery at the University of Wisconsin - Madison. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I've served as Editor-in-Chief of Genomics: Insights, a collaboration between the NHGRI and Smithsonian. This is a digital venue for trainees to submit short communication pieces on cutting edge genomics research to a general audience. I am also interested in data-driven science policy, and I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
+I am a Postdoctoral Research Associate at the University of Wisconsin - Madison in the Wisconsin Institute for Discovery. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I have served as Editor-in-Chief of *Genomics: Insights*, a collaboration between the NHGRI and Smithsonian. *Genomics: Insights* is a digital venue for trainees to submit short communication pieces on cutting edge genomics research to a general audience. I am also interested in data-driven science policy and I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
