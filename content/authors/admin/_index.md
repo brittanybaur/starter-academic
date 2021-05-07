@@ -72,6 +72,4 @@ highlight_name: false
 
 I am a Postdoctoral Research Associate at the Wisconsin Institute for Discovery at the University of Wisconsin - Madison. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. I am also currently Editor-in-Chief of Genomics: Insights, a collaboration between the NHGRI and Smithsonian. I am also interested in data-driven science policy, and I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
