@@ -77,7 +77,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
----
 title: "Data Integration for inferring context-specific gene regulatory networks"
 
 # Authors
