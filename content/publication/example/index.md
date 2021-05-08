@@ -1,4 +1,3 @@
----
 title: "Improving Bus Route Design Using Stop Balancing and Community-level Data"
 
 # Authors
