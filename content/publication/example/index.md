@@ -76,7 +76,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
+---
 title: "Data Integration for inferring context-specific gene regulatory networks"
 
 # Authors
