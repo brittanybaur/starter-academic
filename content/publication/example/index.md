@@ -1,20 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Data Integration for inferring context-specific gene regulatory networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Junha Shin
+- Shilu Zhang
+- Sushmita Roy
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-10-01T00:00:00Z"
+doi: "doi.org/10.1016/j.coisb.2020.09.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,16 +26,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Current Opinion in Systems Biology*
+publication_short: In *COISB*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Transcriptional regulatory networks control context-specific gene expression patterns and play important roles in normal and disease processes. Advances in genomics are rapidly increasing our ability to measure different components of the regulation machinery at the single-cell and bulk population level. An important challenge is to combine different types of regulatory genomic measurements to construct a more complete picture of gene regulatory networks across different disease, environmental, and developmental contexts. In this review, we focus on recent computational methods that integrate regulatory genomic datasets to infer context specificity and dynamics in regulatory networks.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
