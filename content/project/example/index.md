@@ -1,5 +1,5 @@
 ---
-title: Genomics Insights
+title: Genomics: Insights
 summary: testing
 tags:
 - Deep Learning
