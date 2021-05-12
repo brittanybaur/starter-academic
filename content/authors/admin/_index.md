@@ -18,9 +18,11 @@ bio: My research interests are in 3D genomics and gene regulation
 
 # Interests to show in About widget
 interests:
+- Data science
 - Gene regulation
 - 3D genomics
 - Science policy
+- Science communication
 
 # Education to show in About widget
 education:
@@ -70,6 +72,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Postdoctoral Research Associate at the University of Wisconsin - Madison in the Wisconsin Institute for Discovery. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I have served as Editor-in-Chief of *Genomics: Insights*, a collaboration between the NHGRI and Smithsonian. *Genomics: Insights* is a digital venue for pre and post doctoral trainees to communicate cutting-edge genomics research to a general audience. I am also interested in data-driven science policy with a focus on equitable transportation. I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
+I am a Postdoctoral Research Associate at the University of Wisconsin - Madison in the Wisconsin Institute for Discovery. I am currently researching the role of 3D genome organization in gene regulation, evolution and disease. For the past two years, I have served as Editor-in-Chief of *Genomics: Insights*, a collaboration between the NHGRI and Smithsonian. *Genomics: Insights* is a digital venue for students and postdocs to communicate cutting-edge genomics research to a general audience. I am also interested in data-driven science policy with a focus on equitable transportation. I am currently Communications Chair for Catalysts for Science Policy (CaSP) at UW-Madison.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
