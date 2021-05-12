@@ -1,5 +1,5 @@
 ---
-title: Genomics\: Insights
+title: Genomics Insights
 summary: My work as Editor-in-Chief of Genomics Insights
 tags:
 - Deep Learning
