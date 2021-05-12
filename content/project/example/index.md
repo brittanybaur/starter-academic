@@ -28,7 +28,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides= ""
+slides: example
 ---
 
 I am Editor-in-Chief of *Genomics: Insights*, a new NHGRI-supported digital venue for students and postdocs to communicate cutting-edge genomics research to a general audience. Our main goals are to increase public engagement with genomics research and serve as a learning experience for early-career researchers to communicate science. Science communication is a skill often overlooked in many undergrate and graduate programs. 
