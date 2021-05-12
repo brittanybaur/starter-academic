@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Genomics: Insights
+summary: My work as Editor-in-Chief of Genomics: Insights
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,14 +9,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: A screenshot of our publication
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://unlockinglifescode.org/connections/featured-articles
 url_code: ""
 url_pdf: ""
 url_slides: ""
