@@ -1,6 +1,6 @@
 ---
 title: Genomics Insights
-summary: My work as Editor-in-Chief of Genomics: Insights
+summary: testing
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
