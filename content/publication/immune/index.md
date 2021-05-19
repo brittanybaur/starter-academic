@@ -8,10 +8,10 @@ authors:
 - Yi Zhang
 - Mohith Manjunath
 - Jialu Yan
-- admin
+- Brittany Baur
 - Shilu Zhang
 - Sushmita Roy
-- Jun S Song
+- Jun Song
 
 # Author notes (optional)
 author_notes:
