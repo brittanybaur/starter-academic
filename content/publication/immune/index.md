@@ -15,6 +15,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
 
 date: "2019-08-01T00:00:00Z"
 doi: "doi.org/10.3389/fgene.2019.00754"
