@@ -78,6 +78,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+---
 title: "The cancer-associated genetic variant rs3903072 modulates immune cells in the tumor microenvironment"
 
 # Authors
