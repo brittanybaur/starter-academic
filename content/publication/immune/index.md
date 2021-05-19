@@ -8,7 +8,7 @@ authors:
 - Yi Zhang
 - Mohith Manjunath
 - Jialu Yan
-- Brittany Baur
+- admin
 - Shilu Zhang
 - Sushmita Roy
 - Jun Song
