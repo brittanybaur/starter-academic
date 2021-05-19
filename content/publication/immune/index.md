@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: "2019-08-23T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 doi: "doi.org/10.3389/fgene.2019.00754"
 
 # Schedule page publish date (NOT publication's date).
