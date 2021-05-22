@@ -48,17 +48,7 @@ publication_types: ["2"]
 publication: In *Obesity*
 publication_short: In *Obesity*
 
-abstract: Objective
-Obesity is a major risk factor for multiple diseases and is in part heritable, yet the majority of causative genetic variants that drive excessive adiposity remain unknown. Here, outbred heterogeneous stock (HS) rats were used in controlled environmental conditions to fine-map novel genetic modifiers of adiposity.
-
-Methods
-Body weight and visceral fat pad weights were measured in male HS rats that were also genotyped genome-wide. Quantitative trait loci (QTL) were identified by genome-wide association of imputed single-nucleotide polymorphism (SNP) genotypes using a linear mixed effect model that accounts for unequal relatedness between the HS rats. Candidate genes were assessed by protein modeling and mediation analysis of expression for coding and noncoding variants, respectively.
-
-Results
-HS rats exhibited large variation in adiposity traits, which were highly heritable and correlated with metabolic health. Fine-mapping of fat pad weight and body weight revealed three QTL and prioritized five candidate genes. Fat pad weight was associated with missense SNPs in Adcy3 and Prlhr and altered expression of Krtcap3 and Slc30a3, whereas Grid2 was identified as a candidate within the body weight locus.
-
-Conclusions
-These data demonstrate the power of HS rats for identification of known and novel heritable mediators of obesity traits.
+abstract: Obesity is a major risk factor for multiple diseases and is in part heritable, yet the majority of causative genetic variants that drive excessive adiposity remain unknown. Here, outbred heterogeneous stock (HS) rats were used in controlled environmental conditions to fine-map novel genetic modifiers of adiposity. Body weight and visceral fat pad weights were measured in male HS rats that were also genotyped genome-wide. Quantitative trait loci (QTL) were identified by genome-wide association of imputed single-nucleotide polymorphism (SNP) genotypes using a linear mixed effect model that accounts for unequal relatedness between the HS rats. Candidate genes were assessed by protein modeling and mediation analysis of expression for coding and noncoding variants, respectively. HS rats exhibited large variation in adiposity traits, which were highly heritable and correlated with metabolic health. Fine-mapping of fat pad weight and body weight revealed three QTL and prioritized five candidate genes. Fat pad weight was associated with missense SNPs in Adcy3 and Prlhr and altered expression of Krtcap3 and Slc30a3, whereas Grid2 was identified as a candidate within the body weight locus. These data demonstrate the power of HS rats for identification of known and novel heritable mediators of obesity traits.
 
 # Summary. An optional shortened abstract.
 summary: 
