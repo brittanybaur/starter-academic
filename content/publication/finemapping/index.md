@@ -5,28 +5,28 @@ title: "Genetic fine‐mapping and identification of candidate genes and variant
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
--Gregory R Keele
--Jeremy W Prokop
--Hong He
--Katie Holl
--John Littrell
--Aaron Deal
--Sanja Francic
--Leilei Cui
--Daniel M Gatti
--Karl W Broman
--Michael Tschannen
--Shirng‐Wern Tsaih
--Maie Zagloul
--Yunjung Kim
--Brittany Baur
--Joseph Fox
--Melanie Robinson
--Shawn Levy
--Michael J Flister
--Richard Mott
--William Valdar
--Leah C Solberg Woods
+- Gregory R Keele
+- Jeremy W Prokop
+- Hong He
+- Katie Holl
+- John Littrell
+- Aaron Deal
+- Sanja Francic
+- Leilei Cui
+- Daniel M Gatti
+- Karl W Broman
+- Michael Tschannen
+- Shirng‐Wern Tsaih
+- Maie Zagloul
+- Yunjung Kim
+- Brittany Baur
+- Joseph Fox
+- Melanie Robinson
+- Shawn Levy
+- Michael J Flister
+- Richard Mott
+- William Valdar
+- Leah C Solberg Woods
 
 # Author notes (optional)
 author_notes:
