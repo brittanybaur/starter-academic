@@ -25,8 +25,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Genetics*
-publication_short: In *Front Genet*
+publication: In *Genomics*
+publication_short: In *Genomics*
 
 abstract: Copy number amplifications and deletions that are recurrent in cancer samples harbor genes that confer a fitness advantage to cancer tumor proliferation and survival. One important challenge in computational biology is to separate the causal (i.e., driver) genes from passenger genes in large, aberrated regions. Many previous studies focus on the genes within the aberration (i.e., cis genes), but do not utilize the genes that are outside of the aberrated region and dysregulated as a result of the aberration (i.e., trans genes). We propose a computational pipeline, called ProcessDriver, that prioritizes candidate drivers by relating cis genes to dysregulated trans genes and biological processes. ProcessDriver is based on the assumption that a driver cis gene should be closely associated with the dysregulated trans genes and biological processes, as opposed to previous studies that assume a driver cis gene should be the most correlated gene to the copy number of an aberrated region. We applied our method on breast, bladder and ovarian cancer data from the Cancer Genome Atlas database. Our results included previously known driver genes and cancer genes, as well as potentially novel driver genes. Additionally, many genes in the final set of drivers were linked to new tumor events after initial treatment using survival analysis. Our results highlight the importance of selecting driver genes based on their widespread downstream effects in trans.
 
