@@ -1,24 +1,19 @@
 ---
-title: "The Cancer-Associated Genetic Variant Rs3903072 Modulates Immune Cells in the Tumor Microenvironment"
+title: "ProcessDriver: A computational pipeline to identify copy number drivers and associated disrupted biological processes in cancer"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yi Zhang
-- Mohith Manjunath
-- Jialu Yan
 - admin
-- Shilu Zhang
-- Sushmita Roy
-- Jun Song
+- Serdar Bozdag
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 
-date: "2019-08-01T00:00:00Z"
-doi: "doi.org/10.3389/fgene.2019.00754"
+date: "2017-07-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.ygeno.2017.04.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +28,7 @@ publication_types: ["2"]
 publication: In *Frontiers in Genetics*
 publication_short: In *Front Genet*
 
-abstract: Genome-wide association studies (GWAS) have hitherto identified several germline variants associated with cancer susceptibility, but the molecular functions of these risk modulators remain largely uncharacterized. Recent studies have begun to uncover the regulatory potential of noncoding GWAS SNPs using epigenetic information in corresponding cancer cell types and matched normal tissues. However, this approach does not explore the potential effect of risk germline variants on other important cell types that constitute the microenvironment of tumor or its precursor. This paper presents evidence that the breast-cancer-associated variant rs3903072 may regulate the expression of CTSW in tumor-infiltrating lymphocytes. CTSW is a candidate tumor-suppressor gene, with expression highly specific to immune cells and also positively correlated with breast cancer patient survival. Integrative analyses suggest a putative causative variant in a GWAS-linked enhancer in lymphocytes that loops to the 3' end of CTSW through three-dimensional chromatin interaction. Our work thus poses the possibility that a cancer-associated genetic variant could regulate a gene not only in the cell of cancer origin but also in immune cells in the microenvironment, thereby modulating the immune surveillance by T lymphocytes and natural killer cells and affecting the clearing of early cancer initiating cells.
+abstract: Copy number amplifications and deletions that are recurrent in cancer samples harbor genes that confer a fitness advantage to cancer tumor proliferation and survival. One important challenge in computational biology is to separate the causal (i.e., driver) genes from passenger genes in large, aberrated regions. Many previous studies focus on the genes within the aberration (i.e., cis genes), but do not utilize the genes that are outside of the aberrated region and dysregulated as a result of the aberration (i.e., trans genes). We propose a computational pipeline, called ProcessDriver, that prioritizes candidate drivers by relating cis genes to dysregulated trans genes and biological processes. ProcessDriver is based on the assumption that a driver cis gene should be closely associated with the dysregulated trans genes and biological processes, as opposed to previous studies that assume a driver cis gene should be the most correlated gene to the copy number of an aberrated region. We applied our method on breast, bladder and ovarian cancer data from the Cancer Genome Atlas database. Our results included previously known driver genes and cancer genes, as well as potentially novel driver genes. Additionally, many genes in the final set of drivers were linked to new tumor events after initial treatment using survival analysis. Our results highlight the importance of selecting driver genes based on their widespread downstream effects in trans.
 
 # Summary. An optional shortened abstract.
 summary: 
