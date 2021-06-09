@@ -58,15 +58,25 @@ experience:
       * Modern Elementary Statistics (SP 2016), graded assignments and held office hours 
       * Data Mining (SP 2016), graded assignments, taught several classes
 
+  - title: Biogrid REU fellow
+    company: University of Connecticut 
+    company_url: ''
+    company_logo: 
+    location: Storrs, CT
+    date_start: '2010-06-01'
+    date_end: '2010-08-31'
+    description: |2-
+      * Researched and benchmarked tools for identifying network motifs
+
   - title: Software Development Intern
     company: Mackevision
     company_url: ''
     company_logo: 
-    location: Rpchester, MI
+    location: Rochester, MI
     date_start: '2012-05-01'
     date_end: '2012-08-31'
     description: |2-
-      * Developed tools for pipeline enhancements 
+      * Developed tools for pipeline enhancements
 
   - title: Tutor and supplemental instructor
     company: Manhattanville College
