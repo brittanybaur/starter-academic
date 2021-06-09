@@ -58,7 +58,7 @@ experience:
       * Modern Elementary Statistics (SP 2016), graded assignments and held office hours 
       * Data Mining (SP 2016), graded assignments, taught several classes
 
-  -  title: Software Development Intern
+  - title: Software Development Intern
     company: Mackevision
     company_url: ''
     company_logo: 
