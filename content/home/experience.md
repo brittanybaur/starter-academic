@@ -34,6 +34,7 @@ experience:
       * Interpreting non-coding variation in the context of the 3-dimensional genome
       * Analyzing Hi-C data to understand the role of 3D genome organization in the window of breast cancer susceptibility
 
+experience:
   - title: Graduate Research Assistant
     company: Marquette University
     company_url: ''
@@ -46,7 +47,8 @@ experience:
       * Prioritizing probes from 450K DNA methylation arrays
       * Detecting copy number drivers of cancer
 
-- title: Teaching Assistant
+experience:
+  - title: Teaching Assistant
     company: Marquette University
     company_url: ''
     company_logo: 
@@ -58,7 +60,8 @@ experience:
       * Modern Elementary Statistics (SP 2016), graded assignments and held office hours 
       * Data Mining (SP 2016), graded assignments, taught several classes
 
--  title: Software Development Intern
+experience:
+  -  title: Software Development Intern
     company: Mackevision
     company_url: ''
     company_logo: 
@@ -67,8 +70,9 @@ experience:
     date_end: '2012-08-31'
     description: |2-
       * Developed tools for pipeline enhancements 
-
-- title: Tutor and supplemental instructor
+      
+experience:
+  - title: Tutor and supplemental instructor
     company: Manhattanville College
     company_url: ''
     company_logo: 
