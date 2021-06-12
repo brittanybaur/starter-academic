@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Testing # Website name
+title: Brittany Baur # Website name
 baseurl: 'blissful-goodall-d6861f.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
