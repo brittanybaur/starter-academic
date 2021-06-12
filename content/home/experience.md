@@ -89,5 +89,5 @@ experience:
       * Tutored college students in Calculus 1, 2 & 3, biology and chemistry
 
 design:
-  columns: '2'
+  columns: '3'
 ---
